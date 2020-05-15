@@ -20,7 +20,8 @@ Developer Advocate for Google Analytics<br />
 November 2017–June 2019
 
 - Worked with engineering team to promote developer-friendly API design & create useful reference documentation. Helped launch Analytics Provisioning API, Individual User Reporting API, and Client ID dimension reporting.
-- Took ownership of the Analytics Developer Tools (https://ga-dev-tools.appspot.com/), which hosts many millions of unqiue visitors per month. This included feature development, open source engagement, bug ﬁxing, and internal process documenting. - Worked as a direct partner with the engineering teams of high-value ads agencies to onboard them onto the provisioning API, enabling more scalable workﬂows.
+- Took ownership of the Analytics Developer Tools (https://ga-dev-tools.appspot.com/), which hosts many millions of unqiue visitors per month. This included feature development, open source engagement, bug ﬁxing, and internal process documenting.
+- Worked as a direct partner with the engineering teams of high-value ads agencies to onboard them onto the provisioning API, enabling more scalable workﬂows.
 - Worked directly with bitly to migrate the URL shortener in the Developer Tools from goo.gl to bit.ly during the goo.gl deprecation.
 - Migrated the Dimensions & Metrics Explorer- our most popular developer web tool- to the Dev Tools site. This included a full rewrite away from jquery to React.
 
