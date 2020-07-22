@@ -14,9 +14,8 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 
 ## Experience
 
-### 1 Year Break
+### Open Source Contributor
 
-Open Source Contributor<br />
 July 2019–present
 
 - Contributed to numerous open-source projects, mostly in the Rust ecosystem, including to the Rust project itself.
