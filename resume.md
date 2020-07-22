@@ -18,8 +18,7 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 
 July 2019–present
 
-- Contributed to numerous open-source projects, mostly in the Rust ecosystem, including to the Rust project itself.
-- In particular, took ownership of Rust's 5-year-old stdout unconditional line-buffering issue. Created a massive refactor of standard library buffering as a first step to solving it.
+- Contributed to numerous open-source projects, mostly in the Rust ecosystem, including to the Rust project itself. In particular, took ownership of Rust's 5-year-old stdout unconditional line-buffering issue. Created a massive refactor of standard library buffering as a first step to solving it.
 - Joined https://colonist.io, a free web-based reimplementation of Settlers of Catan, as an official contributor.
 - Ported Bobbin, a lightweight Twitter thread sharing app, to Rust from Python.
 - Created batchloader, a type-safe Rust implementation of Facebook's dataloader pattern.
