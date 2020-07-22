@@ -10,19 +10,31 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 - Frameworks: Experienced with many web frameworks, both front- and backend, including React & Redux, Angular, Django, Flask, and Bottle. Also experienced with game frameworks, including SFML and Unity3D.
 - Platforms: Highly experienced in Linux development, including shell tools and techniques. Also experienced developing for Windows and OSX, and web platforms like Heroku.
 - Methodologies: Test driven development, Continuous integration, git ﬂow.
-- Domains: Everything from low-level C++,to graphical applications & webapps, games, APIs, and general libraries and packages. Strongest in small, focused developer utilities and tools.
+- Domains: Everything from low-level C++, to graphical applications & webapps, games, APIs, and general libraries and packages. Strongest in libraries and small, focused developer utilities and tools.
 
 ## Experience
+
+### 1 Year Break
+
+Open Source Contributor<br />
+July 2019–present
+
+- Contributed to numerous open-source projects, mostly in the Rust ecosystem, including to the Rust project itself.
+- In particular, took ownership of Rust's 5-year-old stdout unconditional line-buffering issue. Created a massive refactor of standard library buffering as a first step to solving it.
+- Joined https://colonist.io, a free web-based reimplementation of Settlers of Catan, as an official contributor.
+- Ported Bobbin, a lightweight Twitter thread sharing app, to Rust from Python.
+- Created batchloader, a type-safe Rust implementation of Facebook's dataloader pattern.
+- Created or updated several smaller Rust crates, especially related to asynchronous and low-level utility needs, all with a focus on type-safety and 0-cost abstraction.
 
 ### Google LLC, Mountain View, CA
 
 Developer Advocate for Google Analytics<br />
 November 2017–June 2019
 
-- Worked with engineering team to promote developer-friendly API design & create useful reference documentation. Helped launch Analytics Provisioning API, Individual User Reporting API, and Client ID dimension reporting.
-- Took ownership of the Analytics Developer Tools (https://ga-dev-tools.appspot.com/), which hosts many millions of unqiue visitors per month. This included feature development, open source engagement, bug ﬁxing, and internal process documenting.
-- Worked as a direct partner with the engineering teams of high-value ads agencies to onboard them onto the provisioning API, enabling more scalable workﬂows.
-- Worked directly with bitly to migrate the URL shortener in the Developer Tools from goo.gl to bit.ly during the goo.gl deprecation.
+- Worked with engineering team to promote developer-friendly API design & create useful reference documentation. Helped launch Analytics Provisioning API, Individual User Reporting API, Client ID dimension reporting, and the next generation Web + App Analytics.
+- Took ownership of the Analytics Developer Tools (https://ga-dev-tools.appspot.com/), which hosts many millions of unique visitors per month. This included feature development, open source engagement, bug ﬁxing, and internal process documenting.
+- Owned partner relations during the launch of the Analytics Provisioning API. This included finding, onboarding, and supporting large Ads Partners interested in this API for the purpose of scaling their own Analytics Account management.
+- Worked directly with Bitly engineers to migrate the URL shortener in our Developer Tools from goo.gl to bit.ly during the goo.gl deprecation. Identified missing functionality in their API, and helped them fill those gaps to better meet our own needs and Bitly's preferred customer engagement experience when using our tool.
 - Migrated the Dimensions & Metrics Explorer- our most popular developer web tool- to the Dev Tools site. This included a full rewrite away from jquery to React.
 
 ### Dropbox Inc., New York, NY
@@ -74,6 +86,7 @@ B.S. Computer Science, May 2014
 
 # Portfolio
 
-https://github.com/Lucretiel
+- https://github.com/Lucretiel
+- https://crates.io/users/Lucretiel
 
 <sub>Ask me why generators are the most important control ﬂow abstraction since the automatic call stack</sub>
