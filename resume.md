@@ -14,9 +14,14 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 
 ## Experience
 
+### 1Password, Toronto, Ontario
+
+Senior Developer (Rust specialist), Core Apps<br/>
+September 2020–Present
+
 ### Open Source Contributor
 
-July 2019–present
+July 2019–September 2020
 
 - Contributed to numerous open-source projects, mostly in the Rust ecosystem, including to the Rust project itself. In particular, took ownership of Rust's 5-year-old stdout unconditional line-buffering issue. Created a massive refactor of standard library buffering as a first step to solving it.
 - Joined https://colonist.io, a free web-based reimplementation of Settlers of Catan, as an official contributor.
