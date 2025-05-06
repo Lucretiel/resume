@@ -26,7 +26,7 @@ September 2020–Present
 - Architected and implemented the rust side of the sign-in flow for 1Password, including integrations with platform credential sync like iCloud. Worked closely with platform developers (iOS, Android).
 - Led the "localize everything" initiative, an organized effort to ensure that all user-facing text in the app is correctly localized.
 - Continuously made a variety of small to medium changes to our Rust code with a specific eye towards more compile-time safety.
-- Made a series of educational presentations on various Rust topics (macros, atomics, shared mutability, etc), most of which were later published to the official 1Password YouTube channel
+- Made a [series](https://www.youtube.com/playlist?list=PL3BITueGyOqzdMMQlJexd5Eqdx1ZhsVlo) of educational presentations on various Rust topics (macros, atomics, shared mutability, etc), most of which were later published to the official 1Password YouTube channel
 
 ### Open Source Contributor
 
