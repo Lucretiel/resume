@@ -14,7 +14,7 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 
 ## Experience
 
-### 1Password, Toronto, Ontario
+### 1Password, Toronto, Ontario (Remote)
 
 Senior Developer (Rust specialist), Core Apps<br/>
 September 2020–Present
