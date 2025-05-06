@@ -9,7 +9,7 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 - Programming Languages: Highly experienced in Rust, Javascript (including Typescript and ES2015+), C++ (including C++11, C++14, C++17), and Python (3 and 2). Also experienced in Ruby, Golang, C#, Erlang, bash, Tcl, and many other languages
 - Frameworks: Experienced with many web frameworks, both front- and backend, including React & Redux, Angular, Django, Flask, and Bottle. Also experienced with game frameworks, including SFML and Unity3D.
 - Platforms: Highly experienced in Linux development, including shell tools and techniques. Also experienced developing for Windows and OSX, and web platforms like Heroku.
-- Methodologies: Test driven development, Continuous integration, git ﬂow.
+- Methodologies: Test driven development, Continuous integration, git flow.
 - Domains: Everything from low-level C++, to graphical applications & webapps, games, APIs, and general libraries and packages. Strongest in libraries and small, focused developer utilities and tools.
 
 ## Experience
@@ -19,12 +19,21 @@ Fast-learning, NYC-based developer with extensive experience in Rust, C++, Pytho
 Senior Developer (Rust specialist), Core Apps<br/>
 September 2020–Present
 
+- Worked predominantly on the "core", 1Password's common rust codebase underpinning all versions of the app (Windows, Mac, Linux, iOS, Android, and some of the web extension via WASM)
+- Implemented and maintained a localization framework that verifies correctness for localizations at compile time. Used by all versions of 1Password 8.
+- Designed and implemented the in-app purchase flow for 1Password on iOS. Worked closely with Swift developers for assistance on the SwiftUI portions of this work.
+- Designed, and implemented much of, the app telemetry framework used by 1Password, including the patterns and helpers for compile-time-checked event types and the integration with Snowplow. Worked directly with Snowplow to open up their events API to third-party developers.
+- Architected and implemented the rust side of the sign-in flow for 1Password, including integrations with platform credential sync like iCloud. Worked closely with platform developers (iOS, Android).
+- Led the "localize everything" initiative, an organized effort to ensure that all user-facing text in the app is correctly localized.
+- Continuously made a variety of small to medium changes to our Rust code with a specific eye towards more compile-time safety.
+- Made a series of educational presentations on various Rust topics (macros, atomics, shared mutability, etc), most of which were later published to the official 1Password YouTube channel
+
 ### Open Source Contributor
 
 July 2019–September 2020
 
 - Contributed to numerous open-source projects, mostly in the Rust ecosystem, including to the Rust project itself. In particular, took ownership of Rust's 5-year-old stdout unconditional line-buffering issue. Created a massive refactor of standard library buffering as a first step to solving it.
-- Joined https://colonist.io, a free web-based reimplementation of Settlers of Catan, as an official contributor.
+- Joined <https://colonist.io>, a free web-based reimplementation of Settlers of Catan, as an official contributor.
 - Ported Bobbin, a lightweight Twitter thread sharing app, to Rust from Python.
 - Created batchloader, a type-safe Rust implementation of Facebook's dataloader pattern.
 - Created or updated several smaller Rust crates, especially related to asynchronous and low-level utility needs, all with a focus on type-safety and 0-cost abstraction.
@@ -35,7 +44,7 @@ Developer Advocate for Google Analytics<br />
 November 2017–June 2019
 
 - Worked with engineering team to promote developer-friendly API design & create useful reference documentation. Helped launch Analytics Provisioning API, Individual User Reporting API, Client ID dimension reporting, and the next generation Web + App Analytics.
-- Took ownership of the Analytics Developer Tools (https://ga-dev-tools.appspot.com/), which hosts many millions of unique visitors per month. This included feature development, open source engagement, bug ﬁxing, and internal process documenting.
+- Took ownership of the Analytics Developer Tools (<https://ga-dev-tools.appspot.com/>), which hosts many millions of unique visitors per month. This included feature development, open source engagement, bug ﬁxing, and internal process documenting.
 - Owned partner relations during the launch of the Analytics Provisioning API. This included finding, onboarding, and supporting large Ads Partners interested in this API for the purpose of scaling their own Analytics Account management.
 - Worked directly with Bitly engineers to migrate the URL shortener in our Developer Tools from goo.gl to bit.ly during the goo.gl deprecation. Identified missing functionality in their API, and helped them fill those gaps to better meet our own needs and Bitly's preferred customer engagement experience when using our tool.
 - Migrated the Dimensions & Metrics Explorer- our most popular developer web tool- to the Dev Tools site. This included a full rewrite away from jquery to React.
@@ -80,16 +89,16 @@ September 2010–May 2014 (excepting Mimedia, above)
 - Front line point-of-contact support for RPI student body computing needs.
 - Commonly facilitated laptop re-images, licenses for RPI software installs, and on-campus printing.
 - Troubleshooted problems a wide variety of technology platforms, including Windows, Max OSX, Linux, iOS, and Android.
-- Gained experience working with clients of all levels of technical expertise to ﬁnd solutions to problems.
+- Gained experience working with clients of all levels of technical expertise to and solutions to problems.
 
-# Education
+## Education
 
 RENSSELAER POLYTECHNIC INSTITUTE, Troy, NY<br />
 B.S. Computer Science, May 2014
 
-# Portfolio
+## Portfolio
 
-- https://github.com/Lucretiel
-- https://crates.io/users/Lucretiel
+- <https://github.com/Lucretiel>
+- <https://crates.io/users/Lucretiel>
 
 <sub>Ask me why generators are the most important control ﬂow abstraction since the automatic call stack</sub>
