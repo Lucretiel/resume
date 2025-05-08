@@ -2,7 +2,7 @@
 
 ## Summary
 
-Fast-learning, NYC-based developer with extensive experience in Rust, C++, Python, and Javascript.
+Fast-learning, NYC-based developer with extensive experience in Rust, Javascript / Typescript, C++, explaining things, and Python.
 
 ## Skills
 
