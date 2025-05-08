@@ -10,7 +10,8 @@ Fast-learning, NYC-based developer with extensive experience in Rust, Javascript
 - Frameworks: Experienced with many web frameworks, both front- and backend, including React & Redux, Angular, Django, Flask, and Bottle. Also experienced with game frameworks, including SFML and Unity3D.
 - Platforms: Highly experienced in Linux development, including shell tools and techniques. Also experienced developing for Windows and OSX, and web platforms like Heroku.
 - Methodologies: Test driven development, Continuous integration, git flow.
-- Domains: Everything from low-level C++, to graphical applications & webapps, games, APIs, and general libraries and packages. Strongest in libraries and small, focused developer utilities and tools.
+- Domains: Everything from low-level C, to graphical applications & webapps, games, APIs, and general libraries and packages. Strongest in libraries and small, focused developer utilities and tools.
+- Interpersonal: Excellent at understanding people's confusion and explaining complicated topics. An excellent tutor.
 
 ## Experience
 
